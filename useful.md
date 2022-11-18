@@ -20,6 +20,11 @@ Useful pieces of code and websites.
     latexdiff-vc -r <tag or git version> --force main.tex
     latexmk -shell-escape -pdf -pv -output-directory=build-diff main-diff<tag or git version>.tex
   ```
+- Spell checker:  
+  `aspell -c -t file.tex -d en`   
+  `-c` command to check the file  
+  `-t` LaTeX mode  
+  `-d` name of the main dictionary to use (optional)
 
 ## Python formating
 - [Documentation](https://www.python.org/dev/peps/pep-0008/)
