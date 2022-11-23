@@ -2,6 +2,7 @@
 Useful pieces of code and websites.
 ## ArXiv
 - [ArXiv latex cleaner](https://github.com/google-research/arxiv-latex-cleaner)
+- [ar5iv](https://ar5iv.labs.arxiv.org/) (to turn papers to webpages in HTML)
 
 ## Authoring
 - [Contribution Roles Taxonomy](https://credit.niso.org/)
