@@ -43,6 +43,8 @@
     latexmk -shell-escape -pdf -pv -output-directory=build-diff main-diff<tag or git version>.tex
   ```
 
+### [LaTeX is dead ?](https://www.quora.com/Is-LaTeX-dead-If-yes-what-are-some-modern-alternatives)
+
 ### [Online tables generator](https://www.tablesgenerator.com/)
 ### [Online tikz diagram editor](https://tikzcd.yichuanshen.de/)
 
