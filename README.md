@@ -82,6 +82,8 @@
 ### [Data visualisation catalogue](https://datavizcatalogue.com/index.html)
 ### [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends#1-friends-dont-let-friends-make-bar-plots-for-means-separation), examples of bad data visualizations.
 
+### [Jekyll](https://jekyllrb.com/), software to create static webpages from Markdown files ([here](https://www.taniarascia.com/make-a-static-website-with-jekyll/) for a nice tutorial).
+
 ### [LibRedirect](https://libredirect.github.io/), web extension redirecting many websites to alternative privacy friendly frontends.
 
 ### [Mathjobs](https://www.mathjobs.org/jobs)
