@@ -90,8 +90,9 @@
 
 ### [10 minutes mail](https://10minutemail.net/), generate a temporary email address.
 
-### Ghostscript scripts
+<!--- ### Ghostscript scripts
 - See `~/Documents/code/pdf_management` for compression/merging bash scripts.
+--->
 
 ### [Pomodoro](https://pomofocus.io/)
 
