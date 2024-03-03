@@ -18,6 +18,8 @@
 
 ### [webofknowledge](https://images.webofknowledge.com/images/help/WOS/A_abrvjt.html), list of scientific journals abreviations.
 
+### [Zotero](https://www.zotero.org/), open source bibliography management tool.
+
 # LaTeX
 
 ### [LaTeX Font Catalogue](https://tug.org/FontCatalogue/)
