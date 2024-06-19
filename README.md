@@ -12,6 +12,8 @@
 
 ### [Pandoc](https://pandoc.org/), <3 file converter, can be used with markdown to create pdfs or presentation slides.
 
+### [Pandoc-crossref](https://github.com/lierdakil/pandoc-crossref?tab=readme-ov-file), allows to use crossref for equations, figures etc in pandoc-markdown files.
+
 ### [Sherpa](https://v2.sherpa.ac.uk/romeo/), online resource that aggregates and analyses publisher open access policies.
 
 ### [VS Code Keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf), cheatsheet with VS Code Keyboard Shortcuts for Linux
@@ -56,6 +58,8 @@
 
 # Coding
 
+### Bash
+- [Advanced shell scripting techniques](https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)
 ### [FEniCSx Tutorial](https://jorgensd.github.io/dolfinx-tutorial)
 
 ### Git
@@ -108,6 +112,8 @@
 ### [Coolors](https://coolors.co/cabac8-ff101f-b2ddf7-81d6e3-4cb5ae), generate color palettes.
 
 # Relax
+
+### [Existential Comics](https://existentialcomics.com/)
 
 ### [Nandgame](https://nandgame.com/), build a computer from scratch.
 
