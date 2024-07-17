@@ -113,7 +113,11 @@
 
 # Relax
 
+### [Accuracity](https://accura.city/), geography game where you locate cities.
+
 ### [Existential Comics](https://existentialcomics.com/)
+
+### [First person tetris](https://firstpersontetris.com/)
 
 ### [Nandgame](https://nandgame.com/), build a computer from scratch.
 
@@ -122,3 +126,5 @@
 ### [Rogule](https://rogule.com/), a dungeon a day keeps the Balrog away.
 
 ### [The wiki game](https://www.thewikigame.com/), a game on Wikipedia.
+
+### [Travle](https://travle.earth/), geography game where you travel from one country to another.
