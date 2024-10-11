@@ -24,11 +24,11 @@
 
 # LaTeX
 
-### [LaTeX Font Catalogue](https://tug.org/FontCatalogue/)
-
 ### [bibcure](https://github.com/bibcure/bibcure), set of tools to generate and tidy bib files. Generates bib files from list of DOIs.
 
 ### [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/index.html), tool to tidy bibtex files.
+
+### [LaTeX Font Catalogue](https://tug.org/FontCatalogue/)
 
 ### [GNU aspell](http://aspell.net/), spell checker.  
   ```
@@ -48,7 +48,10 @@
 ### [LaTeX is dead ?](https://www.quora.com/Is-LaTeX-dead-If-yes-what-are-some-modern-alternatives)
 
 ### [Online tables generator](https://www.tablesgenerator.com/)
+
 ### [Online tikz diagram editor](https://tikzcd.yichuanshen.de/)
+
+### [Overleaf-sync](https://github.com/svennniiii/overleaf-sync), sync Overleaf free version (and PLM) with git.
 
 # Presentations
 
@@ -60,6 +63,8 @@
 
 ### Bash
 - [Advanced shell scripting techniques](https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)
+- [Shellcheck](https://www.shellcheck.net/), find bugs in shell scripts.
+
 ### [FEniCSx Tutorial](https://jorgensd.github.io/dolfinx-tutorial)
 
 ### Git
@@ -73,6 +78,7 @@
   `autopep8 -i *.py`
 
 - [PyMesh](https://pymesh.readthedocs.io/en/latest/index.html), tools for geometry processing and meshing, wraps Shewchuk's triangle library.
+- [Vedo](https://vedo.embl.es/), visualization library in python.
 
 ### Others
 - [GNU Screen](https://www.gnu.org/software/screen/manual/screen.html), allows to keep an ssh
@@ -86,6 +92,7 @@
 
 ### [Anna's archive](https://annas-archive.org/), Mirrors Sci-hub, LibGen, Z-lib etc.
 ### [Data visualisation catalogue](https://datavizcatalogue.com/index.html)
+### [Diataxis](https://diataxis.fr/), a systematic approach to technical documentation authoring.
 ### [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends#1-friends-dont-let-friends-make-bar-plots-for-means-separation), examples of bad data visualizations.
 
 ### [Jekyll](https://jekyllrb.com/), software to create static webpages from Markdown files ([here](https://www.taniarascia.com/make-a-static-website-with-jekyll/) for a nice tutorial).
@@ -115,9 +122,13 @@
 
 ### [Accuracity](https://accura.city/), geography game where you locate cities.
 
+### [Bézier game](https://bezier.method.ac/)
+
 ### [Existential Comics](https://existentialcomics.com/)
 
 ### [First person tetris](https://firstpersontetris.com/)
+
+### [Is my blue your blue?](https://ismy.blue/)
 
 ### [Nandgame](https://nandgame.com/), build a computer from scratch.
 
