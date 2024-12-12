@@ -8,6 +8,8 @@
 
 ### [CRediT](https://credit.niso.org/), a standardized list of roles for authors contributions.
 
+### [diagrams.net](https://app.diagrams.net/), online site to create diagrams.
+
 ### [Markdown](https://www.markdownguide.org/), langage to format many documents, can be used with LaTeX to generate maths pdf files.
 
 ### [Pandoc](https://pandoc.org/), <3 file converter, can be used with markdown to create pdfs or presentation slides.
@@ -51,7 +53,7 @@
 
 ### [Online tikz diagram editor](https://tikzcd.yichuanshen.de/)
 
-### [Overleaf-sync](https://github.com/svennniiii/overleaf-sync), sync Overleaf free version (and PLM) with git.
+### [Overleaf-sync](https://github.com/svennniiii/overleaf-sync), sync Overleaf free version ([here](https://github.com/JulesColas97/overleaf-sync-plm/tree/master) for the PLM version) with git.
 
 # Presentations
 
@@ -76,11 +78,14 @@
 
 - [Pep8](https://www.python.org/dev/peps/pep-0008/), standard python code formating.  
   `autopep8 -i *.py`
-
+- [Polars](https://docs.pola.rs/), dataframes library.
 - [PyMesh](https://pymesh.readthedocs.io/en/latest/index.html), tools for geometry processing and meshing, wraps Shewchuk's triangle library.
+- [Ruff](https://docs.astral.sh/ruff/), python linter and code formatter.
+- [uv](https://github.com/astral-sh/uv), python package and project manager.
 - [Vedo](https://vedo.embl.es/), visualization library in python.
 
 ### Others
+- [Pika backup](https://www.linuxtricks.fr/wiki/pika-backup-la-sauvegarde-graphique-avec-la-puissance-de-borg)
 - [GNU Screen](https://www.gnu.org/software/screen/manual/screen.html), allows to keep an ssh
 - [Screen Cheatsheet](https://maojr.github.io/screencheatsheet/)
 
@@ -139,3 +144,5 @@
 ### [The wiki game](https://www.thewikigame.com/), a game on Wikipedia.
 
 ### [Travle](https://travle.earth/), geography game where you travel from one country to another.
+
+### [Whentaken](https://whentaken.com/), guess where and when the picture has been taken.
