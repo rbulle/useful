@@ -81,6 +81,7 @@
 - [Polars](https://docs.pola.rs/), dataframes library.
 - [PyMesh](https://pymesh.readthedocs.io/en/latest/index.html), tools for geometry processing and meshing, wraps Shewchuk's triangle library.
 - [Ruff](https://docs.astral.sh/ruff/), python linter and code formatter.
+- [SimRender](https://github.com/RobinEnjalbert/SimRender), a library for 3D interactive rendering of numerical simulations.
 - [uv](https://github.com/astral-sh/uv), python package and project manager.
 - [Vedo](https://vedo.embl.es/), visualization library in python.
 
