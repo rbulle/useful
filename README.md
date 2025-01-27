@@ -14,7 +14,7 @@
 
 ### [Pandoc](https://pandoc.org/), <3 file converter, can be used with markdown to create pdfs or presentation slides.
 
-### [Pandoc-crossref](https://github.com/lierdakil/pandoc-crossref?tab=readme-ov-file), allows to use crossref for equations, figures etc in pandoc-markdown files.
+- [Pandoc-crossref](https://github.com/lierdakil/pandoc-crossref?tab=readme-ov-file), allows to use crossref for equations, figures etc in pandoc-markdown files.
 
 ### [Sherpa](https://v2.sherpa.ac.uk/romeo/), online resource that aggregates and analyses publisher open access policies.
 
@@ -59,6 +59,8 @@
 
 ### [Marp](https://marp.app/#get-started), tool for presentations creation using markdown.
 
+### [Quarto](https://quarto.org/), <3 tool for presentations creation using markdown.
+
 ### [Revealjs](https://revealjs.com/), tool for presentations creation in html.
 
 # Coding
@@ -81,13 +83,14 @@
 - [Polars](https://docs.pola.rs/), dataframes library.
 - [PyMesh](https://pymesh.readthedocs.io/en/latest/index.html), tools for geometry processing and meshing, wraps Shewchuk's triangle library.
 - [Ruff](https://docs.astral.sh/ruff/), python linter and code formatter.
+- [SnakeViz](https://jiffyclub.github.io/snakeviz/), graphical viewer in browser to visualize the output of Python's [cProfile](https://docs.python.org/3/library/profile.html#module-cProfile).
 - [SimRender](https://github.com/RobinEnjalbert/SimRender), a library for 3D interactive rendering of numerical simulations.
 - [uv](https://github.com/astral-sh/uv), python package and project manager.
 - [Vedo](https://vedo.embl.es/), visualization library in python.
 
 ### Others
 - [Pika backup](https://www.linuxtricks.fr/wiki/pika-backup-la-sauvegarde-graphique-avec-la-puissance-de-borg)
-- [GNU Screen](https://www.gnu.org/software/screen/manual/screen.html), allows to keep an ssh
+- [GNU Screen](https://www.gnu.org/software/screen/manual/screen.html), allows to keep an ssh connexion active.
 - [Screen Cheatsheet](https://maojr.github.io/screencheatsheet/)
 
 ### [NERDTree](https://github.com/preservim/nerdtree), file system explorer in Vim.
@@ -123,6 +126,8 @@
 - [Task Warrior Cheatsheet](https://taskwarrior.org/download/task-2.3.0.ref.pdf)
 
 ### [Coolors](https://coolors.co/cabac8-ff101f-b2ddf7-81d6e3-4cb5ae), generate color palettes.
+
+### [i want hue](http://medialab.github.io/iwanthue/), generate and refine palettes of optimally distinct colors.
 
 # Relax
 
