@@ -6,6 +6,8 @@
 
 ### [Ar5iv](https://ar5iv.labs.arxiv.org/), turn papers into webpages in HTML.
 
+### [Coblis](https://www.color-blindness.com/coblis-color-blindness-simulator/), a colorblindness simulator to help choose colors in figures.
+
 ### [CRediT](https://credit.niso.org/), a standardized list of roles for authors contributions.
 
 ### [diagrams.net](https://app.diagrams.net/), online site to create diagrams.
@@ -23,6 +25,15 @@
 ### [webofknowledge](https://images.webofknowledge.com/images/help/WOS/A_abrvjt.html), list of scientific journals abreviations.
 
 ### [Zotero](https://www.zotero.org/), open source bibliography management tool.
+
+# Organization
+
+### [Obsidian](https://obsidian.md/), note taking software with sync between devices (can be used with Git).
+
+### [Pomodoro](https://pomofocus.io/), timer to help focus on your tasks.
+
+### [Task Warrior](https://taskwarrior.org/), todo list management software in terminal.
+- [Task Warrior Cheatsheet](https://taskwarrior.org/download/task-2.3.0.ref.pdf)
 
 # LaTeX
 
@@ -69,12 +80,22 @@
 - [Advanced shell scripting techniques](https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)
 - [Shellcheck](https://www.shellcheck.net/), find bugs in shell scripts.
 
-### [FEniCSx Tutorial](https://jorgensd.github.io/dolfinx-tutorial)
+### [Docker](https://www.docker.com/), container manager to help with code deployment on any platform. Very useful for reproducibility.
+
+### FEniCSx
+
+- [FEniCSx](https://fenicsproject.org/), FEniCSx an opensource finite element software in C++ with a Python interface.
+- [FEniCSx Tutorial](https://jorgensd.github.io/dolfinx-tutorial), the FEniCSx tutorial by J. S. Dokken.
+- [multiphenicsx](https://multiphenics.github.io/), a python library to solve multiphysics problems with finite elements, based on FEniCSx.
+
+### [FreeFEM++](https://freefem.org/), an opensource finite element software in C++.
 
 ### Git
 - [Git visual explanation](http://marklodato.github.io/visual-git-guide/index-fr.html)
 - [Learn Git Branching](https://learngitbranching.js.org/)
-- [Gitignore generator](https://www.toptal.com/developers/gitignore) 
+- [Gitignore generator](https://www.toptal.com/developers/gitignore)
+
+### [Podman](https://podman.io/), container manager that does not require root privileges.
 
 ### Python
 
@@ -88,21 +109,31 @@
 - [uv](https://github.com/astral-sh/uv), python package and project manager.
 - [Vedo](https://vedo.embl.es/), visualization library in python.
 
-### Others
-- [Pika backup](https://www.linuxtricks.fr/wiki/pika-backup-la-sauvegarde-graphique-avec-la-puissance-de-borg)
-- [GNU Screen](https://www.gnu.org/software/screen/manual/screen.html), allows to keep an ssh connexion active.
+### [GNU Screen](https://www.gnu.org/software/screen/), opensource window manager can be used to open and keep several terminals connected by ssh and recover them when the connection shuts.
 - [Screen Cheatsheet](https://maojr.github.io/screencheatsheet/)
 
-### [NERDTree](https://github.com/preservim/nerdtree), file system explorer in Vim.
-- `s` to open file in split panel  
-- `Crtl + w + Left` `Crtl + w + Right` to navigate panels
+### Other
+
+- [Pika backup](https://www.linuxtricks.fr/wiki/pika-backup-la-sauvegarde-graphique-avec-la-puissance-de-borg)
+- [GNU Screen](https://www.gnu.org/software/screen/manual/screen.html), allows to keep an ssh connexion active.
+- [NERDTree](https://github.com/preservim/nerdtree), file system explorer in Vim.
+  - `s` to open file in split panel  
+  - `Crtl + w + Left` `Crtl + w + Right` to navigate panels
+
 
 # Miscellaneous
 
 ### [Anna's archive](https://annas-archive.org/), Mirrors Sci-hub, LibGen, Z-lib etc.
+
+### [CHATONS](https://www.chatons.org/node/1), <3 French collective structure offering free, ethical and decentralized online services.
+
 ### [Data visualisation catalogue](https://datavizcatalogue.com/index.html)
+
 ### [Diataxis](https://diataxis.fr/), a systematic approach to technical documentation authoring.
+
 ### [FriendsDontLetFriends](https://github.com/cxli233/FriendsDontLetFriends#1-friends-dont-let-friends-make-bar-plots-for-means-separation), examples of bad data visualizations.
+
+### [GrapheneOS](https://grapheneos.org/), opensource and privacy oriented mobile OS.
 
 ### [Jekyll](https://jekyllrb.com/), software to create static webpages from Markdown files ([here](https://www.taniarascia.com/make-a-static-website-with-jekyll/) for a nice tutorial).
 
@@ -119,11 +150,6 @@
 <!--- ### Ghostscript scripts
 - See `~/Documents/code/pdf_management` for compression/merging bash scripts.
 --->
-
-### [Pomodoro](https://pomofocus.io/)
-
-### [Task Warrior](https://taskwarrior.org/), todo list management software in terminal.
-- [Task Warrior Cheatsheet](https://taskwarrior.org/download/task-2.3.0.ref.pdf)
 
 ### [Coolors](https://coolors.co/cabac8-ff101f-b2ddf7-81d6e3-4cb5ae), generate color palettes.
 
