@@ -76,6 +76,8 @@
 
 # Coding
 
+### [Algoim](https://algoim.github.io/), Algorithms for implicitly defined geometry, level set methods, and Voronoi implicit interface methods.
+
 ### Bash
 - [Advanced shell scripting techniques](https://omid.dev/2024/06/19/advanced-shell-scripting-techniques-automating-complex-tasks-with-bash/)
 - [Shellcheck](https://www.shellcheck.net/), find bugs in shell scripts.
