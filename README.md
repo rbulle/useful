@@ -26,6 +26,8 @@
 
 ### [Zotero](https://www.zotero.org/), open source bibliography management tool.
 
+### [awesome-zotero](https://github.com/MohamedElashri/awesome-zotero?tab=readme-ov-file), curated list of zotero plugins.
+
 # Organization
 
 ### [Obsidian](https://obsidian.md/), note taking software with sync between devices (can be used with Git).
@@ -45,7 +47,7 @@
 
 ### [GNU aspell](http://aspell.net/), spell checker.  
   ```
-  aspecll -c -t file.tex -d en
+  aspell -c -t file.tex -d en
   -c: to check the file
   -t: LaTeX mode
   -d: name of the main dictionary to use (default en)
