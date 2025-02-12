@@ -1,4 +1,8 @@
-# Useful softwares and websites.
+# Useful software and websites.
+
+# Literature review
+
+### [Inciteful](https://inciteful.xyz/), generate academic papers graph.
 
 # Writing, publishing
 
@@ -46,8 +50,6 @@
 ### [bibcure](https://github.com/bibcure/bibcure), set of tools to generate and tidy bib files. Generates bib files from list of DOIs.
 
 ### [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/index.html), tool to tidy bibtex files.
-
-### [Inciteful](https://inciteful.xyz/), open source research publications citation graph generator.
 
 ### [LaTeX Font Catalogue](https://tug.org/FontCatalogue/)
 
