@@ -14,11 +14,15 @@
 
 ### [Markdown](https://www.markdownguide.org/), langage to format many documents, can be used with LaTeX to generate maths pdf files.
 
+### [NN-SVG](https://github.com/alexlenail/NN-SVG), open-source neural networks architectures illustrations generator.
+
 ### [Pandoc](https://pandoc.org/), <3 file converter, can be used with markdown to create pdfs or presentation slides.
 
 - [Pandoc-crossref](https://github.com/lierdakil/pandoc-crossref?tab=readme-ov-file), allows to use crossref for equations, figures etc in pandoc-markdown files.
 
 ### [Sherpa](https://v2.sherpa.ac.uk/romeo/), online resource that aggregates and analyses publisher open access policies.
+
+### [Ten simple rules for better figures](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1003833)
 
 ### [VS Code Keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf), cheatsheet with VS Code Keyboard Shortcuts for Linux
 
@@ -42,6 +46,8 @@
 ### [bibcure](https://github.com/bibcure/bibcure), set of tools to generate and tidy bib files. Generates bib files from list of DOIs.
 
 ### [BibTeX Tidy](https://flamingtempura.github.io/bibtex-tidy/index.html), tool to tidy bibtex files.
+
+### [Inciteful](https://inciteful.xyz/), open source research publications citation graph generator.
 
 ### [LaTeX Font Catalogue](https://tug.org/FontCatalogue/)
 
@@ -174,6 +180,8 @@
 ### [Nandgame](https://nandgame.com/), build a computer from scratch.
 
 ### [N step Steve part 1](https://epicpikaguy.itch.io/n-step-steve-part-1)
+
+### [Pokédle](https://pokedle.com/), guess pokemons.
 
 ### [Rogule](https://rogule.com/), a dungeon a day keeps the Balrog away.
 
