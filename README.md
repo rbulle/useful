@@ -4,6 +4,8 @@
 
 ### [Inciteful](https://inciteful.xyz/), generate academic papers graph.
 
+### [mathscinetify](https://gitlab.com/rbulle/mathscinetify), cleans up a .bib file by fetching info from [Mathscinet](https://mathscinet.ams.org/mathscinet/publications-search).
+
 # Writing, publishing
 
 ### [ArXiv LaTeX Cleaner](https://github.com/google-research/arxiv-latex-cleaner), clean papers before submission to arXiv.
@@ -106,6 +108,8 @@
 - [Git visual explanation](http://marklodato.github.io/visual-git-guide/index-fr.html)
 - [Learn Git Branching](https://learngitbranching.js.org/)
 - [Gitignore generator](https://www.toptal.com/developers/gitignore)
+
+### [Ninja](https://ninja-build.org/), a build system with a focus on speed.
 
 ### [Podman](https://podman.io/), container manager that does not require root privileges.
 
