@@ -84,6 +84,8 @@
 
 ### [Quarto](https://quarto.org/), <3 tool for presentations creation using markdown.
 
+### [Awesome quarto](https://github.com/mcanouil/awesome-quarto?tab=readme-ov-file), curated list of Quarto docs, talks, tools, examples & articles the internet has to offer.
+
 ### [Revealjs](https://revealjs.com/), tool for presentations creation in html.
 
 # Coding
