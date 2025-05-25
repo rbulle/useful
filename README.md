@@ -6,6 +6,8 @@
 
 ### [mathscinetify](https://gitlab.com/rbulle/mathscinetify), cleans up a .bib file by fetching info from [Mathscinet](https://mathscinet.ams.org/mathscinet/publications-search).
 
+### [Scholar-inbox](https://www.scholar-inbox.com/), personal paper recommender.
+
 # Writing, publishing
 
 ### [ArXiv LaTeX Cleaner](https://github.com/google-research/arxiv-latex-cleaner), clean papers before submission to arXiv.
